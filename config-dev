@@ -1,2 +1,2 @@
 springcloud config:
-  main dev version1
+  dev dev version1
